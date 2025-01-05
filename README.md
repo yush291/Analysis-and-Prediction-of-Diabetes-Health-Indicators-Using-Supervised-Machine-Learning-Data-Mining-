@@ -58,21 +58,6 @@ This project focuses on analyzing and predicting diabetes risk using supervised 
 
 ---
 
-## Project Structure
-```
-├── Data
-│   └── diabetes_health_indicators.csv
-├── Notebooks
-│   └── DataMining_Lab04.ipynb
-├── Scripts
-│   └── preprocessing.py
-│   └── models.py
-├── README.md
-└── Results
-    └── model_evaluation_metrics.csv
-```
-
----
 
 ## Installation and Usage
 1. Clone the repository:
